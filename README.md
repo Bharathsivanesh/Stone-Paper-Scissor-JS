@@ -9,4 +9,5 @@ This project is a web-based implementation of the classic Stone-Paper-Scissors g
 ->resett(): Resets the game state, including scores, moves left, and visibility of elements for restarting the game.
 
 # Image
+![Screenshot (181)](https://github.com/user-attachments/assets/285d1efa-a36d-4262-8981-86a3e88c857e)
 
